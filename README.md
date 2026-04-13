@@ -1,10 +1,10 @@
 # 👋 Hola, soy David Aparicio Álvarez
 
-Soy **consultor freelance tecnológico**, con más de dos décadas de experiencia ayudando a empresas a diseñar, mantener y evolucionar sus sistemas de información. Me muevo con comodidad entre el mundo del **software empresarial**, la **infraestructura IT**, la **automatización** y, cuando saco tiempo, la **electrónica e IoT**.
+Soy **consultor freelance tecnológico**, y desarrollo mi actividad profesional bajo la **marca comercial APAWARE**. Cuento con más de dos décadas de experiencia ayudando a empresas a diseñar, mantener y evolucionar sus sistemas de información. Me muevo con comodidad entre el mundo del **software empresarial**, la **infraestructura IT**, la **automatización** y, cuando saco tiempo, la **electrónica e IoT**.
 
 ## 🚀 A qué me dedico
 
-Mi actividad principal gira en torno a:
+Mi actividad principal, a través de **APAWARE**, gira en torno a:
 
 - **Microsoft Dynamics 365 Business Central / Navision**
   - Consultoría funcional y técnica
@@ -59,6 +59,7 @@ Cuando no estoy trabajando, me gusta seguir aprendiendo y trasteando:
 ## 📍 Un poco más sobre mí
 
 - 📌 Basado en **Madrid (España)**
+- 💼 Consultor freelance bajo la marca **APAWARE**
 - 💻 Combinando consultoría, sistemas y desarrollo desde hace muchos años
 - 🤝 Acostumbrado a colaborar con clientes y equipos muy distintos
 
