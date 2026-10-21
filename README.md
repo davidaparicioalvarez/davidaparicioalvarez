@@ -1,6 +1,6 @@
 # 👋 Hola, soy David Aparicio
 
-Soy **consultor freelance tecnológico**, y desarrollo mi actividad profesional bajo la **marca comercial APAWARE**. Cuento con más de dos décadas de experiencia ayudando a empresas a diseñar, mantener y evolucionar sus sistemas de información. Me muevo con comodidad entre el mundo del **software empresarial**, la **infraestructura IT**, la **automatización** y, cuando saco tiempo, la **electrónica e IoT**.
+Soy **consultor freelance tecnológico**, y desarrollo mi actividad profesional bajo la **marca comercial APAWARE**. Cuento con más de tres décadas de experiencia ayudando a empresas a diseñar, mantener y evolucionar sus sistemas de información. Me muevo con comodidad entre el mundo del **software empresarial**, la **infraestructura IT**, la **automatización** y, cuando saco tiempo, la **electrónica e IoT**.
 
 ## 🚀 A qué me dedico
 
